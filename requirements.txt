@@ -1,0 +1,9 @@
+numpy
+pandas
+tensorflow
+tqdm
+matplotlib
+Pillow
+opencv-python
+pyglet
+cvzone

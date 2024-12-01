@@ -7,3 +7,5 @@ Pillow
 opencv-python
 pyglet
 cvzone
+flask
+mediapipe

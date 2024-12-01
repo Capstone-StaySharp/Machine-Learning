@@ -32,7 +32,10 @@ face_detector = FaceDetector()
 face_mesh_detector = FaceMeshDetector(maxFaces=1)
 
 # Load the eye detection model
+print("Loading eye detection model...")
 best_model = load_model('StayAwake.keras')
+
+print("Eye detector is running...")
 
 # Initialize variables
 eye_closed_frames_left = 0
